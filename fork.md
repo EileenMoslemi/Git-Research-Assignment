@@ -1,15 +1,15 @@
-1. Fork
+# Fork
 
-A fork is a copy of someone else’s GitHub repository that is created under your own GitHub account.
-Forking allows you to freely experiment with changes without affecting the original project. It is commonly used in open-source projects so contributors can propose improvements safely.
+A **fork** is a copy of someone else’s GitHub repository that is created under your own GitHub account.
+Forking allows you to freely experiment with changes without affecting the original project.
 
-Why it’s useful:
+Forks are commonly used in open-source projects so contributors can make changes independently and
+later suggest improvements.
 
-You don’t need permission to edit the original repo
+## Why Fork Is Useful
+- You can modify code without permission
+- Your changes do not affect the original repository
+- You can contribute to projects safely
 
-You can make changes independently
-
-You can later suggest your changes using a pull request
-
-Source:
+## Source
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
